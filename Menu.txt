@@ -7,3 +7,9 @@ Bevande:
     - Vino
     - Birra
     - Coca Cola
+    
+Antipasti:
+    - Pane
+    - Grissini
+    - Vitello tonnato
+    - Bresaola
