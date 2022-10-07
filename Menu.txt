@@ -2,8 +2,16 @@ Ristorante Gruppo G2
 
 Menu Carne
 
+
 Bevande:
     - Acqua
     - Vino
     - Birra
     - Coca Cola
+
+
+Secondi Piatti:
+	-Arrosto di Maiale Bardato
+	-Costine in Salsa Barbeque
+	-Scaloppine con Funghi
+	-Coniglio alla Siciliana
