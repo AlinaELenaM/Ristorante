@@ -1,0 +1,9 @@
+Ristorante Gruppo G2
+
+Menu Carne
+
+Bevande:
+    - Acqua
+    - Vino
+    - Birra
+    - Coca Cola
