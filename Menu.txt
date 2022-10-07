@@ -7,3 +7,9 @@ Bevande:
     - Vino
     - Birra
     - Coca Cola
+
+Dolci:
+    - Crema catalana
+    - Budino al cioccolato
+    - Torta paradiso
+    - Macedonia di frutta
